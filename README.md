@@ -1,5 +1,5 @@
 
-# AI Interview Simulator (Resume-Based)
+# AI Interview Simulator 
 
 ## What is this project about?
 This project simulates a realistic technical interview based on your uploaded resume. It extracts your skills, projects, and experience, then generates and presents interview questions tailored to your actual background. The goal is to provide a real interview experience, not just a chatbot.
@@ -44,3 +44,4 @@ This project simulates a realistic technical interview based on your uploaded re
 - All questions are generated based on your actual resume content.
 - No generic or irrelevant questions.
 - Feedback is basic; you can extend it with OpenAI API for smarter feedback.
+
